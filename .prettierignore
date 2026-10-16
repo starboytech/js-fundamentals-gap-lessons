@@ -1,0 +1,5 @@
+# Broken on purpose: these teach Node's own error messages, so they cannot be formatted.
+week-3/day2_errors/
+week-3/day3_errors/
+week-3/exit_day2/
+week-4/day4_errors/
